@@ -1,0 +1,283 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- App Title -->
+    <title>Home | Help Desk</title>
+
+    <!-- App favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="uploads/favicon_1685597778.png" type="image/x-icon">
+    <link rel="shortcut icon" href="uploads/favicon_1685597778.png" type="image/x-icon">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+            
+    
+    <!-- Social Meta Tags -->
+    <link rel="canonical" href="weblink">
+    
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;#124;PT+Mono" rel="stylesheet">
+
+    <!-- App CSS -->
+    <link rel="stylesheet" type="text/css" href="frontend/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="frontend/css/floating-wpp.min.css">
+    <link rel="stylesheet" type="text/css" href="frontend/css/main.css">
+
+    <!-- Custom Style -->
+      </head>
+  <body class="loading">
+    <div class="arcelia">
+      <!-- header-->
+      <header class="header text-inverse wow fadeIn">
+        <div class="sky"></div>
+        <div class="container">
+
+          <!-- Top navbar-->
+          <div class="menu">
+
+                        <!-- App Logo -->
+            <a class="logo" href="./">
+              <span>
+                <img src="uploads/logo_1685597777.png" alt="logo">
+              </span>
+            </a>
+            
+            <nav>
+              <div class="menu__close"><a href="#" title="close"><i class="icon-cross"></i></a></div>
+              <ul>
+                <li class="active">
+                  <a href="./">Home</a>
+                </li>
+                <li class="">
+                  <a href="./contact">Contact Us</a>
+                </li>
+              </ul>
+            </nav><a class="menu__burger" href="#" title="Menu"><span></span><span></span><span></span></a>
+          </div>
+
+          <!-- search-->
+          <div class="">
+            <div class="">
+              <div class="">
+                <div class="row">
+                  <div class="col-md-5 d-flex align-items-center"><h2 class="search__title">How can we help you?</h2></div>
+                  <div class="col-md-7"><img src="uploads/home-quiz.png" alt=""></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </header>
+      <!-- ./ header-->
+
+
+      <!-- Content Start -->
+      
+      <!-- features-->
+      <section class="section section-features">
+        <div class="preover">
+          <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120" preserveAspectRatio="xMidYMax meet">
+          	<path fill="#fff" d="M0,0 L0,120 L1920,120 L1920,0 L745,120 L0,0 Z"></path>
+          </svg>
+        </div>
+        <div class="container wow fadeIn">
+          <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 mb-80 text-center">
+              <div class="features wow fadeIn" data-wow-delay=".1s">
+                <div class="features__icon">
+                  <i class="fas fa-question-circle"></i>
+                </div>
+                <h3 class="features__title">Questions Answer</h3>
+                <div class="features__text">See the answer that previously asked by our customers.</div>
+                <div class="features__btn"><a class="btn btn-sm btn-accent" href="./faqs">View All Questions</a></div>
+              </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 mb-80 text-center">
+              <div class="features wow fadeIn" data-wow-delay=".2s">
+                <div class="features__icon">
+                  <i class="fas fa-lightbulb"></i>
+                </div>
+                <h3 class="features__title">Knowledge Base</h3>
+                <div class="features__text">A fully fledged Knowledge base to help users find solutions.</div>
+                <div class="features__btn"><a class="btn btn-sm btn-accent" href="./articles">View All Articles</a></div>
+              </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 mb-80 text-center">
+              <div class="features wow fadeIn" data-wow-delay=".3s">
+                <div class="features__icon">
+                  <i class="fas fa-play-circle"></i>
+                </div>
+                <h3 class="features__title">Video Tutorials</h3>
+                <div class="features__text">Watch the video tutorial base knowledge base articles.</div>
+                <div class="features__btn"><a class="btn btn-sm btn-accent" href="./videos">View All Videos</a></div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        <div class="postover">
+          <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120" preserveAspectRatio="xMidYMax meet">
+          	<path fill="#fff" d="M0,0 L0,120 L1920,120 L1920,0 L745,120 L0,0 Z"></path>
+          </svg>
+        </div>
+      </section>
+      <!-- ./ features-->
+
+
+
+                  <!-- contactUs-->
+      <section class="section section-contactUs text-inverse">
+        <div class="container wow fadeIn">
+          <div class="row align-items-center">
+            <div class="col-lg-8 mb-40 text-lg-left text-center">
+              <h2>No luck what you're looking for?</h2>
+              <div class="lead">Let us know details about your quesiton. We'll get back to you!</div>
+            </div>
+            <div class="col-lg-4 mb-40 text-center"><a class="btn btn-white" href="./contact">Contact with Us</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- ./ contactUs-->
+      
+
+
+                  <!-- faq-->
+      <section class="section section-faq">
+        <div class="preover">
+          <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120" preserveAspectRatio="xMidYMax meet">
+          	<path fill="#fff" d="M0,0 L0,120 L1920,120 L1920,0 L745,120 L0,0 Z"></path>
+          </svg>
+        </div>
+        <div class="container wow fadeIn">
+          <div class="section-title decor__center">
+            <h2>Questions Answer</h2>
+            <p>See the answer that previously asked by our customers.</p>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-lg-10">
+              <div class="faq">
+                <div class="faq__list">
+
+                                    <div class="faq__item">
+                    <div class="faq__item-icon"></div>
+                    <div class="faq__item-title">Consectetur adipiscing elit sed eiusmod</div>
+                    <div class="faq__item-body"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p>
+</div>
+                  </div>
+                                    <div class="faq__item">
+                    <div class="faq__item-icon"></div>
+                    <div class="faq__item-title">Donseced do eiusmod tempor incididunt ut labore</div>
+                    <div class="faq__item-body"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p>
+</div>
+                  </div>
+                                    <div class="faq__item">
+                    <div class="faq__item-icon"></div>
+                    <div class="faq__item-title">New to the Laravel? Lets get started</div>
+                    <div class="faq__item-body"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p>
+</div>
+                  </div>
+                                    <div class="faq__item">
+                    <div class="faq__item-icon"></div>
+                    <div class="faq__item-title">Which payment gateways does the theme support?</div>
+                    <div class="faq__item-body"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p>
+</div>
+                  </div>
+                                    <div class="faq__item">
+                    <div class="faq__item-icon"></div>
+                    <div class="faq__item-title">Introduction What is the meaning of Lorem?</div>
+                    <div class="faq__item-body"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br></p>
+</div>
+                  </div>
+                  
+                </div>
+                <div class="faq__btn"><a class="btn btn-accent" href="./faqs">View All Questions</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+
+                        <div class="postover">
+          <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120" preserveAspectRatio="xMidYMax meet">
+          	<path fill="#fff" d="M0,0 L0,120 L1920,120 L1920,0 L745,120 L0,0 Z"></path>
+          </svg>
+        </div>
+              </section>
+      <!-- ./ faq-->
+
+      <!-- Content End -->
+
+
+                  <!-- contactUs-->
+      <section class="section section-contactUs text-inverse">
+        <div class="container wow fadeIn">
+          <div class="row align-items-center">
+            <div class="col-lg-8 mb-40 text-lg-left text-center">
+              <h2>No luck what you're looking for?</h2>
+              <div class="lead">Let us know details about your quesiton. We'll get back to you!</div>
+            </div>
+            <div class="col-lg-4 mb-40 text-center"><a class="btn btn-white" href="./contact">Contact with Us</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- ./ contactUs-->
+      
+      <!-- footer-->
+      <footer class="footer">
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 col-xs-12">
+              <div class="social-links">
+                <ul class="social-icon">
+                                        <li><a href="https://www.facebook.com/" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i></a></li>
+                                                            <li><a href="https://twitter.com" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a></li>
+                                                                                <li><a href="https://www.linkedin.com/" target="_blank" rel="nofollow"><i class="fab fa-linkedin-in"></i></a></li>
+                                                            <li><a href="https://www.pinterest.com/" target="_blank" rel="nofollow"><i class="fab fa-pinterest"></i></a></li>
+                                                                                                    <li><a href="https://wa.me/" target="_blank" rel="nofollow"><i class="fab fa-whatsapp"></i></a></li>
+                                    </ul>
+              </div>
+            </div>
+            
+            <div class="col-md-4 col-xs-12">
+              <div class="copyright">
+                                <div>© 2024 - Help Desk | Created By_ <a href="https:/.com/" target="_blank">Hi-Tech Parks</a></div>
+                              </div>
+            </div>
+          </div>
+        </div>
+
+      </footer>
+      <!-- ./ footer-->
+
+    </div>
+
+    <!-- preloader-->
+    <div class="preloader">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <!-- ./ preloader-->
+
+    <!-- App scripts-->
+    <script src="frontend/js/jquery.min.js"></script>
+    <script src="frontend/js/bootstrap.min.js"></script>
+    <script src="frontend/js/fancybox.min.js"></script>
+    <script src="frontend/js/all.min.js"></script>
+    <script src="frontend/js/wow.min.js"></script>
+        <script src="frontend/js/floating-wpp.min.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="frontend/js/main.js"></script>
+    <!-- ./ App scripts-->
+  
+  
+</body></html>
